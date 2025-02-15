@@ -1,0 +1,7 @@
+name: vulnerable-project
+version: 1.0.0
+description: A sample project with a vulnerable dependency
+dependencies:
+  lodash: 4.17.15
+scripts:
+  start: node index.js
