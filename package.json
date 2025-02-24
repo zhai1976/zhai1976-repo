@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A sample project with a vulnerable dependency",
   "dependencies": {
-    "express": "4.21.1"
+    "express": "4.21.2"
   },
   "scripts": {
     "start": "node index.js"
